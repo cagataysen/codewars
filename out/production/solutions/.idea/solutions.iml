@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/make-upper-case" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/opposites-attract" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/remove-first-and-last-characters" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/reversed-strings" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/shortest-word-letter-count" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
