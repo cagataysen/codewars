@@ -13,6 +13,8 @@
       <sourceFolder url="file://$MODULE_DIR$/reversed-strings" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/shortest-word-letter-count" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/reversed-sequence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/better-than-average" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/grasshopper" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
