@@ -18,6 +18,7 @@
       <sourceFolder url="file://$MODULE_DIR$/basic-operations" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/square-sum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/string-to-number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/highest-and-lowest" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/isograms" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
