@@ -20,6 +20,7 @@
       <sourceFolder url="file://$MODULE_DIR$/string-to-number" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/highest-and-lowest" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/isograms" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/troll-removing-vowels" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
