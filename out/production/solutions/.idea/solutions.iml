@@ -22,6 +22,7 @@
       <sourceFolder url="file://$MODULE_DIR$/isograms" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/troll-removing-vowels" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lost-without-a-map" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/digitize" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
