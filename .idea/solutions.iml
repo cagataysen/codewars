@@ -23,6 +23,7 @@
       <sourceFolder url="file://$MODULE_DIR$/troll-removing-vowels" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lost-without-a-map" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/digitize" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/regex-pin-validate-pin-code" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
