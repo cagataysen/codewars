@@ -25,6 +25,7 @@
       <sourceFolder url="file://$MODULE_DIR$/digitize" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/regex-pin-validate-pin-code" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/transportation-on-vacation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/will-be-there-enough-space" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
