@@ -27,6 +27,7 @@
       <sourceFolder url="file://$MODULE_DIR$/transportation-on-vacation" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/will-be-there-enough-space" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/powers-of-n" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/reduce-but-grow" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
