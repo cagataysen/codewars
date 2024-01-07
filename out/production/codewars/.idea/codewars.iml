@@ -28,6 +28,7 @@
       <sourceFolder url="file://$MODULE_DIR$/will-be-there-enough-space" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/powers-of-n" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/reduce-but-grow" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dna-rna-convertion" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
