@@ -31,6 +31,7 @@
       <sourceFolder url="file://$MODULE_DIR$/dna-rna-convertion" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/string-repeat" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/string-ends-with" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/jaden-casing-strings" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
