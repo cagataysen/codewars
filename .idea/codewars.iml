@@ -33,6 +33,7 @@
       <sourceFolder url="file://$MODULE_DIR$/string-ends-with" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/jaden-casing-strings" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/get-the-ascii-value" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/invert-values" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
