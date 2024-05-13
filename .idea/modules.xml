@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/codewars.iml" filepath="$PROJECT_DIR$/.idea/codewars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/find-smallest-int-in-array/find-smallest-int-in-array.iml" filepath="$PROJECT_DIR$/find-smallest-int-in-array/find-smallest-int-in-array.iml" />
     </modules>
   </component>
 </project>

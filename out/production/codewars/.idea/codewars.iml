@@ -35,6 +35,7 @@
       <sourceFolder url="file://$MODULE_DIR$/get-the-ascii-value" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/invert-values" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/two-to-one" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/find-smallest-int-in-array" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
@@ -48,5 +49,6 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="bluecatcode.junit.4.12.extended" level="project" />
   </component>
 </module>
