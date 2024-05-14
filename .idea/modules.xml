@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/codewars.iml" filepath="$PROJECT_DIR$/.idea/codewars.iml" />
       <module fileurl="file://$PROJECT_DIR$/find-smallest-int-in-array/find-smallest-int-in-array.iml" filepath="$PROJECT_DIR$/find-smallest-int-in-array/find-smallest-int-in-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grasshopper-check-for-factor/grasshopper-check-for-factor.iml" filepath="$PROJECT_DIR$/grasshopper-check-for-factor/grasshopper-check-for-factor.iml" />
     </modules>
   </component>
 </project>
