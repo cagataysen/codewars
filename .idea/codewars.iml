@@ -37,6 +37,8 @@
       <sourceFolder url="file://$MODULE_DIR$/two-to-one" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/find-smallest-int-in-array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/grasshopper-check-for-factor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sum-mixed-array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/get-the-middle-character" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
