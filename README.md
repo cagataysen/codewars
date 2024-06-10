@@ -1,3 +1,4 @@
-# Solutions
-I share here my Java solutions on this repository including question.txt, find-smallest-int-in-array.Main.java which is my solution and Test.java which is the test file of the solution.
-Questions have been taken from Codewars...
+I share here my Java solutions to various coding challenges, along with the corresponding question prompts.    
+Questions have been sourced from Codewars, a platform for honing coding skills through challenges and exercises.    
+Feel free to explore the solutions and provide feedback or suggestions for improvement.
+
