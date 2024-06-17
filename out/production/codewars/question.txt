@@ -1,9 +1,9 @@
-Create a function which answers the question "Are you playing banjo?".
-If your name starts with the letter "R" or lower case "r", you are playing banjo!
+Check to see if a string has the same amount of 'x's and 'o's. The method must return a boolean and be case insensitive. The string can contain any char.
 
-The function takes a name as its only argument, and returns one of the following strings:
+Examples input/output:
 
-name + " plays banjo"
-name + " does not play banjo"
-
-Names given are always valid strings.
+XO("ooxx") => true
+XO("xooxx") => false
+XO("ooxXm") => true
+XO("zpzpzpp") => true // when no 'x' and 'o' is present should return true
+XO("zzoo") => false		

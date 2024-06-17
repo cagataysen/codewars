@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/codewars.iml" filepath="$PROJECT_DIR$/.idea/codewars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/find-smallest-int-in-array/find-smallest-int-in-array.iml" filepath="$PROJECT_DIR$/find-smallest-int-in-array/find-smallest-int-in-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/get-the-middle-character/get-the-middle-character.iml" filepath="$PROJECT_DIR$/get-the-middle-character/get-the-middle-character.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grasshopper-check-for-factor/grasshopper-check-for-factor.iml" filepath="$PROJECT_DIR$/grasshopper-check-for-factor/grasshopper-check-for-factor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sum-mixed-array/sum-mixed-array.iml" filepath="$PROJECT_DIR$/sum-mixed-array/sum-mixed-array.iml" />
+    </modules>
+  </component>
+</project>
