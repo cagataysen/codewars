@@ -41,6 +41,8 @@
       <sourceFolder url="file://$MODULE_DIR$/get-the-middle-character" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Exes-and-Ohs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/list-filtering" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/boolean-to-String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/your-order-please" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

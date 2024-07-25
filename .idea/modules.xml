@@ -7,7 +7,9 @@
       <module fileurl="file://$PROJECT_DIR$/get-the-middle-character/get-the-middle-character.iml" filepath="$PROJECT_DIR$/get-the-middle-character/get-the-middle-character.iml" />
       <module fileurl="file://$PROJECT_DIR$/grasshopper-check-for-factor/grasshopper-check-for-factor.iml" filepath="$PROJECT_DIR$/grasshopper-check-for-factor/grasshopper-check-for-factor.iml" />
       <module fileurl="file://$PROJECT_DIR$/list-filtering/list-filtering.iml" filepath="$PROJECT_DIR$/list-filtering/list-filtering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/removing-elements/removing-elements.iml" filepath="$PROJECT_DIR$/removing-elements/removing-elements.iml" />
       <module fileurl="file://$PROJECT_DIR$/sum-mixed-array/sum-mixed-array.iml" filepath="$PROJECT_DIR$/sum-mixed-array/sum-mixed-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/your-order-please/your-order-please.iml" filepath="$PROJECT_DIR$/your-order-please/your-order-please.iml" />
     </modules>
   </component>
 </project>

@@ -1,5 +1,5 @@
-public class Order {
-    public static String order(String words) {
+public class OrderB {
+    public static String orderB(String words) {
         if (words == null || words.isEmpty()) {
             return "";
         }

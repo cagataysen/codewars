@@ -23,6 +23,7 @@ class XOTest {
       false, Xxxxertr34
       true,  '' 
   """)
+
   void fixedTests(boolean expected, String input) {
     assertEquals(expected, XO.getXO(input));
   }
