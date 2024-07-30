@@ -44,6 +44,7 @@
       <sourceFolder url="file://$MODULE_DIR$/boolean-to-String" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/your-order-please" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/removing-elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/odd-or-even" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
