@@ -45,6 +45,8 @@
       <sourceFolder url="file://$MODULE_DIR$/your-order-please" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/removing-elements" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/odd-or-even" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/highest-scoring-word" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/l1-set-alarm" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
