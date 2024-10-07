@@ -48,6 +48,7 @@
       <sourceFolder url="file://$MODULE_DIR$/highest-scoring-word" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/l1-set-alarm" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/who-likes-it" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/create-phone-number" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
